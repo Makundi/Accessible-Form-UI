@@ -96,3 +96,7 @@ button {
 .complete {
     text-decoration: line-through;
 }
+
+#email-error {
+    color: red;
+}
